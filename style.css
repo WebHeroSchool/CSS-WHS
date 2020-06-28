@@ -1,0 +1,39 @@
+* {
+  padding: 1%;
+  text-align: center;
+}
+
+body {
+  font-family: "Verdana";
+  background-color: #EFFBFB;
+}
+
+h1 {
+  border-style: solid;
+  border-color: #5858FA;
+  background-color: #5858FA;
+  color: white;
+  font-family: Gabriola;
+  font-size: xx-large;
+}
+
+footer {
+  padding: 8%;
+}
+
+p {
+  color: #5858FA;
+}
+
+article {
+  border-style: dotted;
+  border-color: #0B0B61;
+}
+
+.phone {
+  color: black;
+}
+
+aside {
+  color: #5858FA;
+}
